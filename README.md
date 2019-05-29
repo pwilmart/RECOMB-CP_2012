@@ -1,8 +1,11 @@
 # RECOMB-CP_2012
 
-RECOMB computational proteomics meeting
-April 6-8, 2012
-San Diego, CA
+### RECOMB computational proteomics meeting
+
+#### April 6-8, 2012
+
+#### San Diego, CA
+
 Tutorial lecture by Phil Wilmarth
 
 Powerpoint presentations from the 2012 RECOMB-CP meeting
